@@ -52,7 +52,7 @@ setup(
 
     install_requires=[
         'numpy',
-        'opencv-contrib-python-headless>=4.2.0.32',
+        'opencv-python>=4.2.0.32',
         'scikit-surgerycore>=0.1.0',
     ],
 
